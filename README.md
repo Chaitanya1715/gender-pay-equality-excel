@@ -12,7 +12,7 @@ This Excel-based project was completed as part of Deloitte's virtual forensic te
 
 ## 📁 Files
 - `gender-equality-analysis.xlsx`: Final file with classification column
-- `table-screenshot.png`: Preview of the classification logic
+- `table-screenshot`: Preview of the classification logic
 
 ## 📌 Highlights
 - Implemented a clean classification logic using Excel formulas
